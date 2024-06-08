@@ -4,15 +4,17 @@ This repository provides a script to help users disable parental controls on Win
 
 ## Usage
 
-1. Clone the repository:
+1. Star the repo(if you like)
+
+2. Clone the repository:
     ```bash
     git clone https://github.com/Yusuf6411/disable-parental-controls.git
     ```
-2. Navigate to the `scripts` directory:
+3. Navigate to the `scripts` directory:
     ```bash
     cd disable-parental-controls/scripts
     ```
-3. Run the script as an administrator:
+4. Run the script as an administrator:
     ```bash
     disable_parental_controls.bat
     ```

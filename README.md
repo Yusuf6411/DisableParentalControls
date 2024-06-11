@@ -1,10 +1,10 @@
-# Disable Parental Controls
+# Disable Parental Controls ⚠️
 
 This repository provides a script to help users disable parental controls on Windows systems. This should only be used for legitimate purposes with proper authorization.
 
-## Usage
+## Usage 💻
 
-1. Star the repo(if you like)
+1. Star the repo(if you like) ⭐
 
 2. Clone the repository:
     ```bash
@@ -19,10 +19,10 @@ This repository provides a script to help users disable parental controls on Win
     disable_parental_controls.bat
     ```
 
-## Disclaimer
+## Disclaimer ⚠️
 
 This script is intended for educational purposes only. Unauthorized use of this script to bypass security measures is illegal and unethical.
 
-## License
+## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

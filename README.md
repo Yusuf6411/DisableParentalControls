@@ -1,4 +1,4 @@
-# Disable Parental Controls ⚠️
+# Disable Parental Controls 
 
 This repository provides a script to help users disable parental controls on Windows systems. This should only be used for legitimate purposes with proper authorization.
 
